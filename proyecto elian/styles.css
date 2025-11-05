@@ -78,6 +78,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    grid-gap: 20px;
 }
 
 .carta {
@@ -86,3 +87,5 @@ body{
     color: white;
     font-size: 700;
 }
+
+.caja
